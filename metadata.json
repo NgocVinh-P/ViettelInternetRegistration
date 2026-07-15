@@ -1,0 +1,6 @@
+{
+  "name": "Viettel Internet Registration",
+  "description": "Đăng ký Lắp đặt FTTH Tốc độ cao - Cổng dịch vụ Internet cáp quang Viettel",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
